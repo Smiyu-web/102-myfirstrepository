@@ -1,3 +1,4 @@
+//if ...
 let var1 = 0;
 
 if (var1) {
